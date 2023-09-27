@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/serve-video/static/css/main.073c9b0a.css",
+    "main.js": "/serve-video/static/js/main.9ba343cf.js",
+    "static/js/787.98749745.chunk.js": "/serve-video/static/js/787.98749745.chunk.js",
+    "index.html": "/serve-video/index.html",
+    "main.073c9b0a.css.map": "/serve-video/static/css/main.073c9b0a.css.map",
+    "main.9ba343cf.js.map": "/serve-video/static/js/main.9ba343cf.js.map",
+    "787.98749745.chunk.js.map": "/serve-video/static/js/787.98749745.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9ba343cf.js"
+  ]
+}
